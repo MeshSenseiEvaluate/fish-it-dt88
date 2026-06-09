@@ -1,4 +1,4 @@
-# 
+# fish it updated Scripts offers the most advanced fish it Script, with auto-sell and speed. Perfect for dominating any match.
 
 
 
